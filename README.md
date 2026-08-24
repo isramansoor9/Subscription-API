@@ -157,3 +157,10 @@ Add your license here (e.g., MIT) or include a `LICENSE` file in the repository.
 ## Maintainers / Contact
 
 For questions about the code, inspect the controllers in `controllers/` or open an issue in the repository.
+
+## Example Project
+<img width="1451" height="992" alt="image" src="https://github.com/user-attachments/assets/4ac0131d-9ce7-4829-a11d-e146da96983f" />
+<img width="775" height="942" alt="image" src="https://github.com/user-attachments/assets/9d92b58a-1e2f-4ba5-bc23-0b2b3f8c31bf" />
+<img width="1180" height="855" alt="image" src="https://github.com/user-attachments/assets/570c7f90-fb08-4288-b865-c8c179725495" />
+
+
